@@ -1,0 +1,29 @@
+{
+  "name": "@ogeh.dev/random-uuid",
+  "description": "random uuid generator",
+  "version": "0.0.1",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "random-uuid",
+    "uuid",
+    "random",
+    "random-uuid-generator",
+    "uuid-generator",
+    "generator"
+  ],
+  "author": "@ogeh.dev",
+  "license": "MIT",
+  "homepage": "",
+  "repository": {
+    "url": ""
+  },
+  "devDependencies": {
+    "tsup": "^8.2.4",
+    "typescript": "^5.6.2"
+  }
+}
